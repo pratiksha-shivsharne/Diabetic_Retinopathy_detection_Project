@@ -17,7 +17,7 @@ Missing a positive diabetes case is costly, so this project focuses on **recall*
 Python, Pandas, NumPy, Scikit-Learn
 
 ## Screenshot
-![Diabetes ML Project](diabetes_ml_project.png)
-
+![Diabetes ML Project](1780566055391.jpg)
+![Diabetes ML Project](main_photo.jpg)
 ## Author
 Pratiksha Shivsharne - [LinkedIn](https://www.linkedin.com/in/pratiksha-shivsharne)
